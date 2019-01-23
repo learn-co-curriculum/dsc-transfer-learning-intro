@@ -16,7 +16,7 @@ In the previous section, you learned about the fundamentals of convolutional neu
 
 ### Using Pretrained Networks
 
-You will learn about the concept of "convolutional bases" and why they are useful. The use of a convolutional base, or a "pretrained network" has the advantage that hierarchichal features that already have been "pre-learned" by this network can act as a generic model. Because of that reason, these networks can be be used for a wide variety of computer vision tasks, even if your new problem involves completely different classes of images. You'll learn about the pretrained networks that are available in Keras, about feature extraction (meaning that you run your new data through the pretrained network and training a new classifier on top of the pretrained network), and how to finetune your new model.
+You will learn about the concept of "convolutional bases" and why they are useful. The use of a convolutional base, or a "pretrained network" has the advantage that hierarchichal features that already have been "pre-learned" by this network can act as a generic model. Because of that reason, these networks can be be used for a wide variety of computer vision tasks, even if your new problem involves completely different classes of images. You'll learn about the pretrained networks that are available in Keras, the use of pretrained networks through feature extraction (meaning that you run your new data through the pretrained network and training a new classifier on top of the pretrained network), and the use of pretrained networks through finetuning.
 
 
 ### Image Classification 
