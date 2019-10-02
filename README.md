@@ -1,9 +1,9 @@
 
-# Transfer Learning - Recap
+# Transfer Learning
 
 ## Introduction
 
-In this section you learned all about transfer learning and how it could be specifically applied to convolutional neural networks. There are certainly other applications of transfer learning like NLP.
+In this section you will learn all about transfer learning and how it could be specifically applied to convolutional neural networks. There are certainly other applications of transfer learning like NLP.
 
 ## Objectives
 You will be able to:
@@ -25,4 +25,4 @@ At the end of this section, you'll work through a lab that combines the knowledg
 
 ## Summary
 
-In this section, you'll extend your deep learning knowledge by learning about regularizing and optimizing your neural network models. 
+In this section, you'll extend your deep learning knowledge by learning about transfer learning. 
